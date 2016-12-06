@@ -3,16 +3,19 @@ the book is mine
 i an kdjfkl kjdfla
 1234
 
-this is a book
-the book is mine
-i an kdjfkl kjdfla
-1234
+No description or website provided.  — 
+No description or website provided.  — 
+No description or website provided.  — 
 
-this is a book
-the book is mine
-i an kdjfkl kjdfla
-1234
-
-
-
-hihi第二修正囉
+$clear //清除畫面
+$pwd //present working directory
+$ls //資料夾底下有哪些資料夾
+$cd name//資料夾名稱
+$cd.. //回上層
+$ ls -a //顯示全部含隱藏檔
+$ git init //初始
+$ git add 未命名.txt//指定要處理的檔案
+$ git commit// Initial commit
+$ git status//git 狀態
+$ git log //查閱快照資料
+ㄋㄨㄜ hkjhklhjhhkl1234
